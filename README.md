@@ -35,19 +35,19 @@ Suggested priority for you, given Company is mainly voice, messaging, and inform
 6. Navigation: lower priority unless your team supports it
 7. ASM and ATFM: conceptual understanding is enough at first
 
+## Priority List to Follow:
+1. High Priority (Core Communication & Messaging Infrastructure)
 
-### 1. High Priority (Core Communication & Messaging Infrastructure)
+-  Communications: Focus on VCS (Voice Communication Systems), VoIP, Radio integration, and compliance with ED-136 / ED-137 / ED-138 standards (particularly IP-based ATM interoperability).
+-  AIM and Messaging: Focus on AMHS, legacy AFTN, and modern data exchange formats/frameworks like SWIM and AIXM.
 
-• Communications: Focus on VCS (Voice Communication Systems), VoIP, Radio integration, and compliance with ED-136 / ED-137 / ED-138 standards (particularly IP-based ATM interoperability).
-• AIM and Messaging: Focus on AMHS, legacy AFTN, and modern data exchange formats/frameworks like SWIM and AIXM.
+2. Medium Priority (Operational Context & Data Processing)
 
-### 2. Medium Priority (Operational Context & Data Processing)
+- ATS Fundamentals: Operational understanding of how ATC works, sector handoffs, and terminal vs. en-route environments.
+- Surveillance and Automation: Understanding radar/flight data processing frameworks, specifically the ASTERIX data exchange format.
 
-• ATS Fundamentals: Operational understanding of how ATC works, sector handoffs, and terminal vs. en-route environments.
-• Surveillance and Automation: Understanding radar/flight data processing frameworks, specifically the ASTERIX data exchange format.
+3. Lower / Conceptual Priority (Frameworks & Domain Context)
 
-### 3. Lower / Conceptual Priority (Frameworks & Domain Context)
-
-• Safety and Assurance: High-level awareness of SMS, RAMS, and software assurance guidelines like ED-153.
-• Navigation (Navaids): Kept as a lower priority unless a specific project or assignment demands it.
-• ASM and ATFM: Conceptual and architectural understanding of airspace and traffic flow management.
+- Safety and Assurance: High-level awareness of SMS, RAMS, and software assurance guidelines like ED-153.
+- Navigation (Navaids): Kept as a lower priority unless a specific project or assignment demands it.
+- ASM and ATFM: Conceptual and architectural understanding of airspace and traffic flow management.
