@@ -2,7 +2,6 @@
 > [!NOTE]
 > This is my personal system engineering document and series going through the technologies related to air traffic management.
 
-> **Objective**
 > [!IMPORTANT]
 > This document will serve as my long-term system engineering skill acquisition, mastery, and knowledge sharing for anyone who's interested in the aviation industry as a system engineer.
 
