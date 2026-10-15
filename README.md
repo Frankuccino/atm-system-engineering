@@ -1,6 +1,15 @@
 # ATM System Engineering
+> [!NOTE]
+> This is my personal system engineering document and series going through the technologies related to air traffic management.
+>
+> **Objective**
+> [!IMPORTANT]
+> This document will serve as my long-term system engineering skill acquisition, mastery, and knowledge sharing for anyone who's interested in the aviation industry as a system engineer.
 
-ATM stands for Air Traffic Management which includes:
+If you have any questions or suggestions, feel free to contact me via [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/frank-angelo-malubag/)
+
+
+## ATM stands for Air Traffic Management which includes:
 
 - Air Traffic Services (ATS):
     - Air Traffic Control (ATC): separation and sequencing, split into tower, approach, and area control
@@ -26,3 +35,20 @@ Suggested priority for you, given Company is mainly voice, messaging, and inform
 5. Safety and assurance: SMS, RAMS, ED-153
 6. Navigation: lower priority unless your team supports it
 7. ASM and ATFM: conceptual understanding is enough at first
+
+
+### 1. High Priority (Core Communication & Messaging Infrastructure)
+
+• Communications: Focus on VCS (Voice Communication Systems), VoIP, Radio integration, and compliance with ED-136 / ED-137 / ED-138 standards (particularly IP-based ATM interoperability).
+• AIM and Messaging: Focus on AMHS, legacy AFTN, and modern data exchange formats/frameworks like SWIM and AIXM.
+
+### 2. Medium Priority (Operational Context & Data Processing)
+
+• ATS Fundamentals: Operational understanding of how ATC works, sector handoffs, and terminal vs. en-route environments.
+• Surveillance and Automation: Understanding radar/flight data processing frameworks, specifically the ASTERIX data exchange format.
+
+### 3. Lower / Conceptual Priority (Frameworks & Domain Context)
+
+• Safety and Assurance: High-level awareness of SMS, RAMS, and software assurance guidelines like ED-153.
+• Navigation (Navaids): Kept as a lower priority unless a specific project or assignment demands it.
+• ASM and ATFM: Conceptual and architectural understanding of airspace and traffic flow management.
