@@ -2,7 +2,7 @@
 
 ATM stands for Air Traffic Management which includes:
 
-Air Traffic Services (ATS):
+- Air Traffic Services (ATS):
     - Air Traffic Control (ATC): separation and sequencing, split into tower, approach, and area control
     - Flight Information Service (FIS): information useful for safe and efficient flights
     - Alerting Service: notifying search and rescue when an aircraft needs help
