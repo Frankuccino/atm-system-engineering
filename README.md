@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > This document will serve as my long-term system engineering skill acquisition, mastery, and knowledge sharing for anyone who's interested in the aviation industry as a system engineer.
 
-If you have any questions or suggestions, feel free to contact me via [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/frank-angelo-malubag/)
+If you have any questions or suggestions, feel free to contact me via [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg)](https://www.linkedin.com/in/frank-angelo-malubag/)
 
 
 ## ATM stands for Air Traffic Management which includes:
