@@ -69,4 +69,39 @@ VCS stands for Voice Communication System; it is the whole system that connects 
 | Packet loss | Dropped packets | Missing chunks of audio |
 | QoS | Quality of Service | Network rules that prioritize voice traffic |
 
+**Terminologies found would reviewing this document and their deep-dives:**
+
+1. GNSS & GPS:
+- GNSS: Global Navigation Satellite Systems - this represents the broad umbrella of space-based infrastructure that provide global positioning, navigation, and timing (PNT).
+- PNT: Positioning, Navigation, and Timing - The collective framework of three independent core capabilities; knowing where youare, how to get somewhere else, and what exact time it is.
+> While **GNSS** is the primary space-based delivery mechanism for PNT, PNT itself represents the actual utility consumed by global digital, financial, and physical infrastructure.
+
+**Three Pillars of PNT:**
+    1. **Positionning**: The ability to accurately and precisely determine geographic coordinates (latitude, longitude, and altitude) or orientation relative to a standard geodetic reference frame like WGS84 
+    2. **Navigation**: The dynamic process of determining a current versus desired position and calculating real-time corrections to speed, course, and heading to guide a user or autonomous asset safely from point A to point B
+    3. **Timing**: The acquisition and maintenance of ultra-precise time synchronization referenced to Coordinated Universal Time (UTC) down to the nanosecond level. Though least visible to everyday consumers, timing is arguably the most critical component of the triad
+
+- GPS: Global Positioning System this is specifically the pioneer GNSS constellation operated by the United States. A single satellite constellation owned and operated by the United States government. Typically **31 operational satellites.** High risk of signal loss or delay in urban canyons, valleys, or dense trees.
+- GNSS: The overarching term that encompasses all global and regional constellations. Over **120+ satellites** combined across multiple nations. High resilience; if one constellation is blocked, the receiver automatically switches to another.
+
+**The Global Core Constellations of GNSS**
+> A standard, modern multi-GNSS receiver does not just talk to the U.S. network. It tracks data simultaneously from four major worldwide networks.
+1. GPS (United States): The historical pioneer, fully deployed 1993/1994.
+2. GLONASS (Russia): A 24-satellite constellation optimized heavily for high-latitude tracking.
+3. Galileo (European Union): A highly precise civil-controlled network utilizing advanced frequency channels.
+4. BeiDou (China): The largest constellation in orbit, utilizing over 40 satellites for massive coverage density.
+> *Note: Regional augmentation systems like Japan's QZSS and India's NavIC also tie into GNSS architectures to reinforce positioning over specific hemispheres.*
+
+Global Navigation Systems orbit at an altitude of roughly 19,000 to 24,000 kilometers (Medium Earth Orbit). This altitude is a mathematical sweet spot; it allows the satellites to circle the Earth about twice a day, moving relative to the ground so a handful of satellites can sweep the entire planet continuously.
+
+There are 3 Main Altitudes and different kind of technologies:
+1. Low Earth Orbit (LEO):
+    - Typical Altitude: 160-2000km
+    - Speed: ~28,000 km/h
+    - Time to Orbit Earth: 90-120 minutes
+2. Medium Earth Orbit (MEO): **These are where GNSS are positioned**
+3. Geostationary Orbit (GEO):
+
+
+
 
